@@ -1,0 +1,40 @@
+{
+  "provozovna": {
+    "name": "Areál bývalé Zbrojovky Vsetínn",
+    "address": [
+      "Jasenická 2102",
+      "za objektem č. 6",
+      "755 01 Vsetín"
+    ],
+    "phone": "571 992 758",
+    "fax": "571 992 758",
+    "mobile": "605 544 069",
+    "email": "kovosrot.kubik@seznam.cz",
+    "contactPerson": "Zdeněk Kubík"
+  },
+  "sidloAutovraky": {
+    "name": "Zdeněk Kubík",
+    "address": [
+      "Bratří Hlaviců 88",
+      "755 01 Vsetín"
+    ],
+    "ic": "67678785",
+    "mobile": "605 544 069"
+  },
+  "sidloOdpady": {
+    "name": "Kovošrot Kubík s.r.o.",
+    "address": [
+      "Jasenická 2102",
+      "755 01 Vsetín"
+    ],
+    "ic": "29455219",
+    "mobile": "605 544 069"
+  },
+  "openingHours": {
+    "weekdays": "Po - Pá: 7:00 - 16:00",
+    "saturday": "So: 8:00 - 11:00",
+    "sunday": "Ne: zavřeno",
+    "notice": "V pondělí 27.10.2025 zavřeno z důvodu dovolené"
+  },
+  "lastUpdated": "2025-12-02"
+}

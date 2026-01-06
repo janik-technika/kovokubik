@@ -32,9 +32,9 @@
   },
   "openingHours": {
     "weekdays": "Po - Pá: 7:00 - 16:00",
-    "saturday": "So: 8:00 - 11:00",
+    "saturday": "So: zavřeno",
     "sunday": "Ne: zavřeno",
-    "notice": "V pondělí 27.10.2025 zavřeno z důvodu dovolené"
+    "notice": "V sobotu bude opět otevřené od 7.3.2026"
   },
-  "lastUpdated": "2025-12-02"
+  "lastUpdated": "2026-01-06"
 }

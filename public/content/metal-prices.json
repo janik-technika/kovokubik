@@ -87,14 +87,14 @@
     "id": "13",
     "code": "170401",
     "item": "Cu karmy",
-    "price": "100",
+    "price": "160",
     "order": 13
   },
   {
     "id": "14",
     "code": "170401",
     "item": "Cu Ms chladiče bez Fe",
-    "price": "60",
+    "price": "70",
     "order": 14
   },
   {
@@ -108,7 +108,7 @@
     "id": "16",
     "code": "170401",
     "item": "Cu opřádaná",
-    "price": "100",
+    "price": "150",
     "order": 16
   },
   {

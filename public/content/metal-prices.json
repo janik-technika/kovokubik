@@ -31,21 +31,21 @@
     "id": "5",
     "code": "170402",
     "item": "Al dráty bez Fe",
-    "price": "41",
+    "price": "50",
     "order": 5
   },
   {
     "id": "6",
     "code": "170402",
     "item": "Al lana s Fe",
-    "price": "12",
+    "price": "16",
     "order": 6
   },
   {
     "id": "7",
     "code": "170402",
     "item": "Al plech,kus. bez fe/profil",
-    "price": "26,00 /35-41",
+    "price": "28 /45-50",
     "order": 7
   },
   {

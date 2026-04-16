@@ -52,21 +52,21 @@
     "id": "8",
     "code": "170402",
     "item": "Al plechovky",
-    "price": "10",
+    "price": "16",
     "order": 8
   },
   {
     "id": "9",
     "code": "170402",
     "item": "Al žaluzie bez Fe/ s Fe",
-    "price": "10 / 4,00",
+    "price": "16 / 4,00",
     "order": 9
   },
   {
     "id": "10",
     "code": "170402",
     "item": "Al+Cu chladič bez Fe",
-    "price": "60",
+    "price": "70",
     "order": 10
   },
   {

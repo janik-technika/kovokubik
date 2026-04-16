@@ -213,7 +213,7 @@
     "id": "32",
     "code": "170407",
     "item": "SK plátky /Ms/",
-    "price": "200,00",
+    "price": "1000",
     "order": 32
   },
   {
@@ -222,13 +222,6 @@
     "item": "Směsné kovy",
     "price": "3,00/50,00",
     "order": 33
-  },
-  {
-    "id": "34",
-    "code": "160117",
-    "item": "Železné kovy/auta/",
-    "price": "1,00",
-    "order": 34
   },
   {
     "id": "35",

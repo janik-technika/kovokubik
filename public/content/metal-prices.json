@@ -129,7 +129,7 @@
     "id": "19",
     "code": "170401",
     "item": "Ms nábojnice",
-    "price": "107",
+    "price": "115",
     "order": 19
   },
   {
@@ -138,13 +138,6 @@
     "item": "Cín pájka,slitiny/čistý",
     "price": "20,00/100,00",
     "order": 20
-  },
-  {
-    "id": "21",
-    "code": "170403",
-    "item": "Auto závažíčka",
-    "price": "3",
-    "order": 21
   },
   {
     "id": "22",

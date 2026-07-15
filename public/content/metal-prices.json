@@ -17,7 +17,7 @@
     "id": "3",
     "code": "170405",
     "item": "Železo",
-    "price": "3,2-4",
+    "price": "3-4",
     "order": 3
   },
   {
@@ -234,7 +234,7 @@
     "id": "36",
     "code": "160601",
     "item": "Akumulátory",
-    "price": "9",
+    "price": "10",
     "order": 36
   },
   {

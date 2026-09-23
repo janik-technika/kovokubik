@@ -108,14 +108,14 @@
     "id": "16",
     "code": "170401",
     "item": "Cu opřádaná",
-    "price": "150",
+    "price": "180",
     "order": 16
   },
   {
     "id": "17",
     "code": "170401",
     "item": "Cu ostatní",
-    "price": "200",
+    "price": "225",
     "order": 17
   },
   {
@@ -213,7 +213,7 @@
     "id": "32",
     "code": "170407",
     "item": "SK plátky /Ms/",
-    "price": "1000",
+    "price": "300",
     "order": 32
   },
   {
